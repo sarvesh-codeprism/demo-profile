@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A programmer & a budding web developer</h3>
+<h3 align="center">Some info about you</h3>
 
-<img hight="300" width="383" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/841186099694534686/883685428388040714/1705126364ee5378963e9f40922d7aa8.jpg">
+<img hight="300" width="383" alt="image" align="right" src="https://github.com/sarveshspatil111/demo-profile/blob/main/demo-user.jpg">
 
 ```javascript
 const about_me = {
@@ -15,7 +15,7 @@ const about_me = {
                 
     hobbies: ["Reading", "Listening to Music"],
     
-    fun_fact: "I can make you laugh :D"
+    fun_fact: ""
     
 }
 ```
